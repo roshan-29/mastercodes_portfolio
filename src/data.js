@@ -5,7 +5,7 @@ export const projects = [
     description:
       "This is a web developement project using HTML CSS and JavaScript",
     image: "./project-1.png",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
   
 ];
