@@ -26,10 +26,10 @@ export default function Testimonials() {
                     className="w-12 rounded-full flex-shrink-0 object-cover object-center"
                   />
                   <span className="flex-grow flex flex-col pl-4">
-                    <span className="title-font font-medium text-black font-bold">
+                    <span className="title-font font-medium text-black font-bold uppercaseh">
                       {testimonial.name}
                     </span>
-                    <span className="text-gray-500 text-sm uppercase">
+                    <span className="text-black-500 font-bold text-sm uppercase">
                       {testimonial.company}
                     </span>
                   </span>

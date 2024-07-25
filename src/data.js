@@ -3,7 +3,7 @@ export const projects = [
     title: "MOVIEFLIX",
     subtitle: "WEB DEVELOPEMENT PROJECT",
     description:
-      "This is a web developement project using HTML CSS and JavaScript",
+      "Designed and developed a dynamic website using HTML, CSS, and JavaScript, dedicated to showcasing a renowned actor's movie collections and music catalog. Implemented interactive features to enable users to explore the actor's filmography and music, demonstrating my ability to create engaging web experiences.",
     image: "./project-1.png",
     link: "",
   },
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Image Slider (Android Application) ",
     description:
       "Developed an application using Android Studio and Java,featuring image sliding functionality and a range of asynchronous tasks. Leveraged asynchronous programming to seamlessly handle image transitions and efficiently perform various operations, showcasing my proficiency in mobile app development.",
-    image: "./project-1.png",
+    image: "./ad.jpeg",
     link: "",
   },
   {
@@ -20,22 +20,22 @@ export const projects = [
     subtitle: " Major Project",
     description:
       "Connect Care is food donation App developed using Flutter and Supabase in which donors can donate and recipients can receive the excess food with the involvement of Volunteers.I used my figma skills to develope a good UI/UX",
-    image: "./project-1.png",
+    image: "./co.png",
     link: "",
   },
   {
     title: "REACT YOUTUBE CLONE ",
     subtitle: "Internship project-Inventeron Technologies ",
     description:
-      "This is a web developement project using React axios Rapid API ",
-    image: "./project-1.png",
+      "Developed a web developement  project  using   React  axios Rapid API.  This is a iternship project done by us in the guidance of inventeron technologies. RAPID API-youtube v3 is used with this.",
+    image: "./youtube.png",
     link: "",
   },{
     title: "PET SHOP MANAGEMENT",
     subtitle: "Data Base Management Project",
     description:
       "Developed a comprehensive database project serves as a centralized repository for pet shop details. Leveraging SQL for efficient data storage and retrieval, the project enables users to access information about various pets effortlessly. The user-friendly front end, built with HTML and CSS while PHP serves as the server language.",
-    image: "./project-1.png",
+    image: "./pet_shop new.png",
     link: "",
   },
   
