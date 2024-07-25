@@ -46,14 +46,14 @@ export const testimonials = [
   {
     quote:
       "Web-lead :Google Developer Student Club-SIT (GDSC)",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
+    image: "https://tse1.mm.bing.net/th?id=OIP.CR3CrcFqoQ6O7u2A_xQ8NAHaHa&pid=Api&P=0&h=180",
     name: "GOOGLE DEVELOPER STUDENTS CLUB",
     company: "SIT Manglore",
   },
   {
     quote:
       "Technical Lead-CSI",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
+    image: "https://tse4.mm.bing.net/th?id=OIP.uzO_8QBs2Z5qodiRQrCoggHaEK&pid=Api&P=0&h=180",
     name: "Computer Society of India student chapter ",
     company: "SIT Manglore",
   },
